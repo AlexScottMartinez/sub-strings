@@ -23,3 +23,4 @@ Please note the order of your keys might be different.
    - Recall how to turn strings into arrays and arrays into strings.
 
 ## How to run code
+Within the directory, insert `ruby sub_strings.rb` in the command terminal. The result should be printed out on the terminal.
